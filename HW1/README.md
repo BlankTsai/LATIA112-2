@@ -6,7 +6,7 @@ my info:41271121H 蔡廷軒
 ***
 ## HW1
 
-[main.py](https://github.com/breeze0305/LATIA112-2/blob/main/HW1/main.py) 為執行檔案，使用[student-behavior.csv](https://github.com/breeze0305/LATIA112-2/blob/main/HW1/student-behavior.csv) ([15y_up_EDU_LV](https://github.com/BlankTsai/LATIA112-2/blob/main/HW1/15y_up_EDU%20LV.csv))作為統計的資料集，使用[matplotlib](https://matplotlib.org/)繪製圖表，程式執行完畢後，圖片會存在同目錄下的[answer_picture](https://github.com/BlankTsai/LATIA112-2/tree/main/HW1/answer_picture)。
+[main.py](https://github.com/breeze0305/LATIA112-2/blob/main/HW1/main.py) 為執行檔案，使用([15y_up_EDU_LV](https://github.com/BlankTsai/LATIA112-2/blob/main/HW1/15y_up_EDU%20LV.csv))作為統計的資料集，使用[matplotlib](https://matplotlib.org/)繪製圖表，程式執行完畢後，圖片會存在同目錄下的[answer_picture](https://github.com/BlankTsai/LATIA112-2/tree/main/HW1/answer_picture)。
 
 ```
 資料集說明:此資料集為這是一個有關15歲以上教育程度的csv數據,取自政府資料開放平台的數據  
