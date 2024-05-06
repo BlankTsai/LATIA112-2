@@ -7,14 +7,14 @@ my info:41271121H 蔡廷軒
 ## HW2
 
 ### 使用requests
-[main_requests.py](https://github.com/breeze0305/LATIA112-2/blob/main/HW2/main_requests.py) 為執行檔案，[requests_books.csv](https://github.com/breeze0305/LATIA112-2/blob/main/HW2/requests_books.csv)為爬取的內容。
+[LATIA_HW2_Request&BTFSoup.ipynb](https://github.com/BlankTsai/LATIA112-2/blob/main/HW2/LATIA_HW2_Request%26BTFSoup.ipynb) 為執行檔案，[LATIA_HW2_ReqwithBTFS.csv](https://github.com/BlankTsai/LATIA112-2/blob/main/HW2/LATIA_HW2_ReqwithBTFS.csv)為爬取的內容。
 
 ### 使用selenium
-[main_selenium.py](https://github.com/breeze0305/LATIA112-2/blob/main/HW2/main_selenium.py) 為執行檔案，[Chromedriver](https://github.com/breeze0305/LATIA112-2/blob/main/HW2/chromedriver.exe)是符合我本地的chrome driver，如需執行，請更改成自己的版本，[selenium_books.csv](https://github.com/breeze0305/LATIA112-2/blob/main/HW2/selenium_books.csv)為爬取的內容。
+[LATIA_HW2_Selenium.ipynb](https://github.com/BlankTsai/LATIA112-2/blob/main/HW2/LATIA_HW2_Selenium.ipynb) 為執行檔案，[LATIA_HW2_Sel.csv](https://github.com/BlankTsai/LATIA112-2/blob/main/HW2/LATIA_HW2_Sel.csv)為爬取的內容。
 
 ```
-爬取網頁:博客來網站搜尋(程式)
-url:https://search.books.com.tw/search/query/key/%E7%A8%8B%E5%BC%8F/cat/all
+爬取網頁:104求職網站，並於搜尋欄搜尋關鍵字"科技業"
+url:https://www.104.com.tw/jobs/search/?svrd=1&jobsource=cmw_redirect&keyword=%E7%A7%91%E6%8A%80%E6%A5%AD
 ```
 
 ## 爬取內容
